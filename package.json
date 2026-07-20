@@ -1,5 +1,5 @@
 {
-  "name": "p55",
+  "name": "p155",
   "version": "0.2.0",
   "author": "IQB - Institut zur Qualitätsentwicklung im Bildungswesen",
   "license": "CC0-1.0",
@@ -9,13 +9,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/iqb-vocabs/p55.git"
+    "url": "git+https://github.com/iqb-vocabs/p155.git"
   },
   "bugs": {
-    "url": "https://github.com/iqb-vocabs/p55/issues"
+    "url": "https://github.com/iqb-vocabs/p155/issues"
   },
-  "homepage": "https://github.com/iqb-vocabs/p55#readme",
+  "homepage": "https://github.com/iqb-vocabs/p155#readme",
   "dependencies": {
-    "@iqb/validate-md-profile": "^0.9.1"
+    "@iqb/validate-md-profile": "0.10.5"
   }
 }

@@ -10,7 +10,7 @@ Creator: IQB - Institut zur Qualitätsentwicklung im Bildungswesen
 
 # IQB Französisch Sek I 2003/2004- Aufgabe
 
-ID of profile: `https://raw.githubusercontent.com/iqb-vocabs/p55/master/unit.json`
+ID of profile: `https://raw.githubusercontent.com/iqb-vocabs/p155/master/unit.json`
 
 ## Stimulus
 
@@ -54,7 +54,7 @@ ID of profile: `https://raw.githubusercontent.com/iqb-vocabs/p55/master/unit.jso
 
 # IQB Französisch Sek I 2003/2004 - Item
 
-ID of profile: `https://raw.githubusercontent.com/iqb-vocabs/p55/master/item.json`
+ID of profile: `https://raw.githubusercontent.com/iqb-vocabs/p155/master/item.json`
 
 | Name/Label | Typ | Parameter | ID Profil-Eintrag |
 | :--- | :---: | :--- | :---: |

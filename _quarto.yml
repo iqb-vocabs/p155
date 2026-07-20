@@ -2,10 +2,10 @@ project:
   type: website
 
 website:
-  site-url: https://iqb-vocabs.github.io/p55/
+  site-url: https://iqb-vocabs.github.io/p155/
   favicon: favicon.ico
   page-navigation: true
-  repo-url: https://github.com/iqb-vocabs/p55/
+  repo-url: https://github.com/iqb-vocabs/p155/
   navbar:
     logo: iqb-logo-black.png
     search: true
@@ -14,7 +14,7 @@ website:
         text: "Metadatenprofile für Testaufgaben: Französisch Sek I 2003/2004"
     right:
       - icon: github
-        href: https://github.com/iqb-vocabs/p55
+        href: https://github.com/iqb-vocabs/p155
         aria-label: Source Code
 
 
