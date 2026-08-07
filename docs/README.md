@@ -8,7 +8,7 @@ Creator: IQB - Institut zur Qualitätsentwicklung im Bildungswesen
 
 ## Profil "IQB Französisch Sek I 2003/2004- Aufgabe"
 
-ID of profile: [https://w3id.org/iqb/p155/unit/](https://w3id.org/iqb/p155/unit/)
+ID of profile: `https://w3id.org/iqb/p155/unit/`
 
 ### Stimulus
 
@@ -46,7 +46,7 @@ ID of profile: [https://w3id.org/iqb/p155/unit/](https://w3id.org/iqb/p155/unit/
 
 ## Profil "IQB Französisch Sek I 2003/2004 - Item"
 
-ID of profile: [https://w3id.org/iqb/p155/item/](https://w3id.org/iqb/p155/item/)
+ID of profile: `https://w3id.org/iqb/p155/item/`
 
 | Name/Label | Typ | Parameter | ID Profil-Eintrag |
 | :--- | :---: | :--- | :---: |
